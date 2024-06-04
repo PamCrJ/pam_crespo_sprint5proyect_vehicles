@@ -7,3 +7,5 @@ https://dashboard.render.com/web/srv-cpcec2q1hbls73fvb67g/events
 https://github.com/PamCrJ/pam_crespo_sprint5proyect_vehicles
 
 El objetivo es construir una aplicación web que nos permita visualizar de manera sencilla algunos datos acerca de la compra de vehículos con información acerca del precio, kilómetraje recorrido, etc.
+
+La app permite observar por ejemplo, la relación que existe entre la condición o el estado en el que se encuentran los vehículos y el kilometraje que tienen, y o entre el kilometraje y el precio de los vehículos. 
